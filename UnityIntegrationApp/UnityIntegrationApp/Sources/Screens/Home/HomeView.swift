@@ -34,6 +34,8 @@ final class HomeView: UIView {
         
     }
     
-    private func setupAppearance() { }
+    private func setupAppearance() {
+        backgroundColor = .systemBackground
+    }
     
 }
